@@ -1,0 +1,5 @@
+Automated	code	quality	
+and	code	coverage	metrics	
+are	now	run	along	with	
+unit	tests	to	continuously	
+evaluate	the	code	quality
